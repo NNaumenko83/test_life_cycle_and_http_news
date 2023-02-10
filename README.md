@@ -1,0 +1,2 @@
+# test_life_cycle_and_http_news
+test_life_cycle_and_http_news
